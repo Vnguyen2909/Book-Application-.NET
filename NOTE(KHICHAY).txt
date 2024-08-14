@@ -1,0 +1,5 @@
+B1: Chạy Database trong "database/DB_QUANLYNHASACH"
+B2: Sửa lại đường link trong Dataprovider
+B3: Coppy file images vào đường link 
+	"BaoCao_QuanLyNhaSach\BaoCao_QuanLyNhaSach\bin\Debug" (để load hình ảnh sản phẩm khi chạy)
+B4: Chạy code bình thường.
